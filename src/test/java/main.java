@@ -6,7 +6,8 @@ public class main {
         audi.color = "black";
         audi.Hp = "4000";
         audi.color = "blue";
-
+        audi.model = "Q6";
+        
     }
 
 

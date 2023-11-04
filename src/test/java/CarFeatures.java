@@ -6,6 +6,8 @@ public class CarFeatures {
 
     String Hp;
 
+    String model;
+
 
 
 }
